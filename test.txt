@@ -5,3 +5,5 @@ learn git
 first change
 learn git 
 second change
+Git is a version control system.
+Git is free software.
